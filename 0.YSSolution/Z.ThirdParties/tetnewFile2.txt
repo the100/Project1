@@ -2,3 +2,8 @@
 
 
 TortoriseGit -> Add 한뒤 Master에 Push 를 한뒤 서버에 Push 한다.
+
+
+파일 수정시 
+
+Git->master 로 보낸뒤 서버로 push 한다.
