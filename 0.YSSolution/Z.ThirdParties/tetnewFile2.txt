@@ -1,0 +1,4 @@
+파일 추가시 파일을 생성한뒤에
+
+
+TortoriseGit -> Add 한뒤 Master에 Push 를 한뒤 서버에 Push 한다.
