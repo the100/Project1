@@ -1,0 +1,12 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\App.config
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\MsmqDistributor.exe.config
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\MsmqDistributor.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\MsmqDistributor.exe
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\MsmqDistributor.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Logging.MsmqDistributor.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.DistributorService.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.ProjectInstaller.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.Properties.Resources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Logging.MsmqDistributor.csproj.GenerateResource.Cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\MsmqDistributor\obj\Debug\MsmqDistributor.exe
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\MsmqDistributor\obj\Debug\MsmqDistributor.pdb

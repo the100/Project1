@@ -1,0 +1,15 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.Tests.dll.config
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.Tests.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.Tests.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\obj\Debug\Validation.Integration.WCF.Tests.VSTS.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.Tests.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WCF.Tests\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.Tests.pdb

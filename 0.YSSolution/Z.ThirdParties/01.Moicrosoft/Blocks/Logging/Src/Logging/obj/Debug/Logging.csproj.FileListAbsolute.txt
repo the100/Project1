@@ -1,0 +1,9 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\Logging\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.DesignResources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\Logging\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Properties.Resources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\Logging\obj\Debug\Logging.csproj.GenerateResource.Cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\Logging\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Src\Logging\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb

@@ -1,0 +1,9 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Configuration.EnvironmentalOverrides.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Properties.Resources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Configuration.DesignResources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Configuration.EnvironmentalOverrides.csproj.GenerateResource.Cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb

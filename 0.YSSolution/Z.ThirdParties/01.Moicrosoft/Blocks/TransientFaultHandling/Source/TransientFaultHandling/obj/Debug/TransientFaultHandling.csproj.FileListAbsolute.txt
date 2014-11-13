@@ -1,0 +1,8 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling\obj\Debug\TransientFaultHandling.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Properties.Resources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling\obj\Debug\TransientFaultHandling.csproj.GenerateResource.Cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.pdb

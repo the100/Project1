@@ -1,0 +1,15 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.TestSupport.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.TestSupport.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.TestSupport.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Newtonsoft.Json.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.TestSupport.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\bin\Debug\Newtonsoft.Json.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\obj\Debug\Logging.TestSupport.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.TestSupport.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Logging\Tests\Logging.TestSupport\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.TestSupport.pdb

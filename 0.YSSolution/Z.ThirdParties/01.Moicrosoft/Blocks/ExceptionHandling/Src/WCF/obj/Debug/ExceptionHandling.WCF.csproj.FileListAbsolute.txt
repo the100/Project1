@@ -1,0 +1,9 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\ExceptionHandling\Src\WCF\obj\Debug\ExceptionHandling.WCF.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\ExceptionHandling\Src\WCF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.Configuration.DesignResources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\ExceptionHandling\Src\WCF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.Properties.Resources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\ExceptionHandling\Src\WCF\obj\Debug\ExceptionHandling.WCF.csproj.GenerateResource.Cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\ExceptionHandling\Src\WCF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\ExceptionHandling\Src\WCF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.pdb

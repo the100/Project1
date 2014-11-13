@@ -1,0 +1,213 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Lib", "01.Lib", "{D4A1CC27-7714-4D2D-965B-E1F9C4730A5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Svc", "02.Svc", "{EDA71D77-50CC-4BFB-AFA9-79A74580CCDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "B.Framework", "B.Framework", "{0487A6E0-F1B8-4FC1-A767-FC7E5F1D4571}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C.BizFrameWork", "C.BizFrameWork", "{A67B58BE-6535-40DD-956E-F7D2DE21B71C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Util", "03.Util", "{1E109789-7E31-40E0-9488-EED22A4E32C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "D.Project", "D.Project", "{A57734C1-BC34-4D75-B386-E8B2E77AEBDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Lib", "01.Lib", "{1585E46D-9117-47EA-A729-7D153E56C664}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Svc", "02.Svc", "{4DFE629C-3975-492D-8158-4A474F642009}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.App", "03.App", "{1A4B1700-8041-4742-ABDE-A098EFC98127}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A.Documents", "A.Documents", "{B0BE823F-269D-4762-B470-BD36B262541D}"
+	ProjectSection(SolutionItems) = preProject
+		A.Documents\PagingQUERY.txt = A.Documents\PagingQUERY.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Common.Util", "B.Framework\03.Util\Project.Common.Util\Project.Common.Util.csproj", "{1703661B-60CE-424D-90E4-17BDE824678A}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "prj.Education_Test", "http://localhost:59768", "{9CE0E5A7-8292-4217-9ADB-E70203A8E81A}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{04f34b48-809d-4af5-8589-0ba8b45a1f15}|DbTestProject.dll;{6D89B5CF-D526-4B4C-A67A-6CCF09A36E6F}|Project.Common.Server.dll;{1703661B-60CE-424D-90E4-17BDE824678A}|Project.Common.WebUtil.dll;{88f88156-877e-47b9-b1b7-6d217350688e}|Prj.Accommodation.Data.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59768"
+		Debug.AspNetCompiler.PhysicalPath = "D.Project\03.App\prj.Education_Test\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59768\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59768"
+		Release.AspNetCompiler.PhysicalPath = "D.Project\03.App\prj.Education_Test\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59768\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D.Project\03.App\prj.Education_Test\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Common.Server", "B.Framework\01.Lib\Project.Common.Server\Project.Common.Server.csproj", "{6D89B5CF-D526-4B4C-A67A-6CCF09A36E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbTestProject", "D.Project\01.Lib\DbTestProject\DbTestProject.csproj", "{04F34B48-809D-4AF5-8589-0BA8B45A1F15}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "prj.Pension.Web", "http://localhost:60995", "{D4945853-1034-48FC-93B5-50E20753C793}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60995"
+		Debug.AspNetCompiler.PhysicalPath = "D.Project\03.App\prj.Pension.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60995\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60995"
+		Release.AspNetCompiler.PhysicalPath = "D.Project\03.App\prj.Pension.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60995\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D.Project\03.App\prj.Pension.Web\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prj.Accommodation.Server", "D.Project\01.Lib\Prj.Accommodation.Server\Prj.Accommodation.Server.csproj", "{62EB3F37-C89F-4001-B11C-36581E16A8E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prj.Accommodation.Data", "D.Project\01.Lib\Prj.Accommodation.Data\Prj.Accommodation.Data.csproj", "{88F88156-877E-47B9-B1B7-6D217350688E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Z.ThirdParties", "Z.ThirdParties", "{3C1F095B-B2DB-4CD0-AEE0-E9238E70B189}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Moicrosoft", "01.Moicrosoft", "{5E4B530C-7937-4E00-B9A0-3A15F6B9D6BD}"
+	ProjectSection(SolutionItems) = preProject
+		Z.ThirdParties\01.Moicrosoft\EnterpriseLibrary6-aExpenseRI-source.exe = Z.ThirdParties\01.Moicrosoft\EnterpriseLibrary6-aExpenseRI-source.exe
+		Z.ThirdParties\01.Moicrosoft\EnterpriseLibrary6-binaries.exe = Z.ThirdParties\01.Moicrosoft\EnterpriseLibrary6-binaries.exe
+		Z.ThirdParties\01.Moicrosoft\EnterpriseLibrary6-QuickStarts-source.exe = Z.ThirdParties\01.Moicrosoft\EnterpriseLibrary6-QuickStarts-source.exe
+		Z.ThirdParties\01.Moicrosoft\EnterpriseLibrary6-source.exe = Z.ThirdParties\01.Moicrosoft\EnterpriseLibrary6-source.exe
+		Z.ThirdParties\01.Moicrosoft\Microsoft.Practices.EnterpriseLibrary.ConfigConsoleV6.vsix = Z.ThirdParties\01.Moicrosoft\Microsoft.Practices.EnterpriseLibrary.ConfigConsoleV6.vsix
+		Z.ThirdParties\01.Moicrosoft\Readme - Enterprise Library 6 - source.txt = Z.ThirdParties\01.Moicrosoft\Readme - Enterprise Library 6 - source.txt
+		Z.ThirdParties\01.Moicrosoft\SemanticLogging-service.exe = Z.ThirdParties\01.Moicrosoft\SemanticLogging-service.exe
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "prj.Pension.AdminWeb", "http://localhost:50916", "{932A971B-7A40-4D6A-BAD0-758380A8CCA8}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50916"
+		Debug.AspNetCompiler.PhysicalPath = "D.Project\03.App\prj.Pension.AdminWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50916\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50916"
+		Release.AspNetCompiler.PhysicalPath = "D.Project\03.App\prj.Pension.AdminWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50916\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D.Project\03.App\prj.Pension.AdminWeb\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.NewtonSoft", "02.NewtonSoft", "{32C5D4F2-4787-4A8B-A787-87B1298DCCF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Net20", "Net20", "{5D84F899-93C2-451E-9773-24B5ED6BEF42}"
+	ProjectSection(SolutionItems) = preProject
+		Z.ThirdParties\02.NewtonSoft\Net20\Newtonsoft.Json.dll = Z.ThirdParties\02.NewtonSoft\Net20\Newtonsoft.Json.dll
+		Z.ThirdParties\02.NewtonSoft\Net20\Newtonsoft.Json.pdb = Z.ThirdParties\02.NewtonSoft\Net20\Newtonsoft.Json.pdb
+		Z.ThirdParties\02.NewtonSoft\Net20\Newtonsoft.Json.xml = Z.ThirdParties\02.NewtonSoft\Net20\Newtonsoft.Json.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Net35", "Net35", "{18CD315A-9317-4CE0-9938-5EB9D3F1020C}"
+	ProjectSection(SolutionItems) = preProject
+		Z.ThirdParties\02.NewtonSoft\Net35\Newtonsoft.Json.dll = Z.ThirdParties\02.NewtonSoft\Net35\Newtonsoft.Json.dll
+		Z.ThirdParties\02.NewtonSoft\Net35\Newtonsoft.Json.pdb = Z.ThirdParties\02.NewtonSoft\Net35\Newtonsoft.Json.pdb
+		Z.ThirdParties\02.NewtonSoft\Net35\Newtonsoft.Json.xml = Z.ThirdParties\02.NewtonSoft\Net35\Newtonsoft.Json.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Net40", "Net40", "{CF944EE9-1E7A-4C5D-A87E-EFCD697E799A}"
+	ProjectSection(SolutionItems) = preProject
+		Z.ThirdParties\02.NewtonSoft\Net40\Newtonsoft.Json.dll = Z.ThirdParties\02.NewtonSoft\Net40\Newtonsoft.Json.dll
+		Z.ThirdParties\02.NewtonSoft\Net40\Newtonsoft.Json.pdb = Z.ThirdParties\02.NewtonSoft\Net40\Newtonsoft.Json.pdb
+		Z.ThirdParties\02.NewtonSoft\Net40\Newtonsoft.Json.xml = Z.ThirdParties\02.NewtonSoft\Net40\Newtonsoft.Json.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Net45", "Net45", "{C879618F-759B-4CC8-8890-32EFD1FCDD1F}"
+	ProjectSection(SolutionItems) = preProject
+		Z.ThirdParties\02.NewtonSoft\Net45\Newtonsoft.Json.dll = Z.ThirdParties\02.NewtonSoft\Net45\Newtonsoft.Json.dll
+		Z.ThirdParties\02.NewtonSoft\Net45\Newtonsoft.Json.pdb = Z.ThirdParties\02.NewtonSoft\Net45\Newtonsoft.Json.pdb
+		Z.ThirdParties\02.NewtonSoft\Net45\Newtonsoft.Json.xml = Z.ThirdParties\02.NewtonSoft\Net45\Newtonsoft.Json.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1703661B-60CE-424D-90E4-17BDE824678A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1703661B-60CE-424D-90E4-17BDE824678A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1703661B-60CE-424D-90E4-17BDE824678A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1703661B-60CE-424D-90E4-17BDE824678A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE0E5A7-8292-4217-9ADB-E70203A8E81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE0E5A7-8292-4217-9ADB-E70203A8E81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE0E5A7-8292-4217-9ADB-E70203A8E81A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE0E5A7-8292-4217-9ADB-E70203A8E81A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{6D89B5CF-D526-4B4C-A67A-6CCF09A36E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D89B5CF-D526-4B4C-A67A-6CCF09A36E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D89B5CF-D526-4B4C-A67A-6CCF09A36E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D89B5CF-D526-4B4C-A67A-6CCF09A36E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F34B48-809D-4AF5-8589-0BA8B45A1F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F34B48-809D-4AF5-8589-0BA8B45A1F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F34B48-809D-4AF5-8589-0BA8B45A1F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F34B48-809D-4AF5-8589-0BA8B45A1F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4945853-1034-48FC-93B5-50E20753C793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4945853-1034-48FC-93B5-50E20753C793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4945853-1034-48FC-93B5-50E20753C793}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4945853-1034-48FC-93B5-50E20753C793}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{62EB3F37-C89F-4001-B11C-36581E16A8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EB3F37-C89F-4001-B11C-36581E16A8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EB3F37-C89F-4001-B11C-36581E16A8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EB3F37-C89F-4001-B11C-36581E16A8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F88156-877E-47B9-B1B7-6D217350688E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F88156-877E-47B9-B1B7-6D217350688E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F88156-877E-47B9-B1B7-6D217350688E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F88156-877E-47B9-B1B7-6D217350688E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932A971B-7A40-4D6A-BAD0-758380A8CCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932A971B-7A40-4D6A-BAD0-758380A8CCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932A971B-7A40-4D6A-BAD0-758380A8CCA8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{932A971B-7A40-4D6A-BAD0-758380A8CCA8}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EDA71D77-50CC-4BFB-AFA9-79A74580CCDC} = {0487A6E0-F1B8-4FC1-A767-FC7E5F1D4571}
+		{D4A1CC27-7714-4D2D-965B-E1F9C4730A5B} = {0487A6E0-F1B8-4FC1-A767-FC7E5F1D4571}
+		{1E109789-7E31-40E0-9488-EED22A4E32C5} = {0487A6E0-F1B8-4FC1-A767-FC7E5F1D4571}
+		{6D89B5CF-D526-4B4C-A67A-6CCF09A36E6F} = {D4A1CC27-7714-4D2D-965B-E1F9C4730A5B}
+		{1703661B-60CE-424D-90E4-17BDE824678A} = {1E109789-7E31-40E0-9488-EED22A4E32C5}
+		{1585E46D-9117-47EA-A729-7D153E56C664} = {A57734C1-BC34-4D75-B386-E8B2E77AEBDC}
+		{4DFE629C-3975-492D-8158-4A474F642009} = {A57734C1-BC34-4D75-B386-E8B2E77AEBDC}
+		{1A4B1700-8041-4742-ABDE-A098EFC98127} = {A57734C1-BC34-4D75-B386-E8B2E77AEBDC}
+		{04F34B48-809D-4AF5-8589-0BA8B45A1F15} = {1585E46D-9117-47EA-A729-7D153E56C664}
+		{62EB3F37-C89F-4001-B11C-36581E16A8E2} = {1585E46D-9117-47EA-A729-7D153E56C664}
+		{88F88156-877E-47B9-B1B7-6D217350688E} = {1585E46D-9117-47EA-A729-7D153E56C664}
+		{9CE0E5A7-8292-4217-9ADB-E70203A8E81A} = {1A4B1700-8041-4742-ABDE-A098EFC98127}
+		{D4945853-1034-48FC-93B5-50E20753C793} = {1A4B1700-8041-4742-ABDE-A098EFC98127}
+		{932A971B-7A40-4D6A-BAD0-758380A8CCA8} = {1A4B1700-8041-4742-ABDE-A098EFC98127}
+		{5E4B530C-7937-4E00-B9A0-3A15F6B9D6BD} = {3C1F095B-B2DB-4CD0-AEE0-E9238E70B189}
+		{32C5D4F2-4787-4A8B-A787-87B1298DCCF0} = {3C1F095B-B2DB-4CD0-AEE0-E9238E70B189}
+		{5D84F899-93C2-451E-9773-24B5ED6BEF42} = {32C5D4F2-4787-4A8B-A787-87B1298DCCF0}
+		{18CD315A-9317-4CE0-9938-5EB9D3F1020C} = {32C5D4F2-4787-4A8B-A787-87B1298DCCF0}
+		{CF944EE9-1E7A-4C5D-A87E-EFCD697E799A} = {32C5D4F2-4787-4A8B-A787-87B1298DCCF0}
+		{C879618F-759B-4CC8-8890-32EFD1FCDD1F} = {32C5D4F2-4787-4A8B-A787-87B1298DCCF0}
+	EndGlobalSection
+EndGlobal

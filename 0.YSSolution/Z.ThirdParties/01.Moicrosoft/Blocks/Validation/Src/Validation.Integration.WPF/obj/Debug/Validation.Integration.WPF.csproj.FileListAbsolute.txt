@@ -1,0 +1,10 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.XML
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.dll.CodeAnalysisLog.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.dll.lastcodeanalysissucceeded
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Src\Validation.Integration.WPF\obj\Debug\Validation.Integration.WPF.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Src\Validation.Integration.WPF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.Properties.Resources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Src\Validation.Integration.WPF\obj\Debug\Validation.Integration.WPF.csproj.GenerateResource.Cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Src\Validation.Integration.WPF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Src\Validation.Integration.WPF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.pdb

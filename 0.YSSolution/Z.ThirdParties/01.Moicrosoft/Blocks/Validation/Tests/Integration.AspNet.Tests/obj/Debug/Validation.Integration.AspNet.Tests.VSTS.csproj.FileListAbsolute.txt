@@ -1,0 +1,16 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.Tests.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.Tests.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.TestSupport.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.TestSupport.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\obj\Debug\Validation.Integration.AspNet.Tests.VSTS.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.Tests.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.AspNet.Tests\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.Tests.pdb

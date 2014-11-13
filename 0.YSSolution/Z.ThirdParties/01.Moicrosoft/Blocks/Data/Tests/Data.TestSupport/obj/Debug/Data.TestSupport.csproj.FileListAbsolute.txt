@@ -1,0 +1,11 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.TestSupport.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.TestSupport.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\obj\Debug\Data.TestSupport.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.TestSupport.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Data\Tests\Data.TestSupport\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.TestSupport.pdb

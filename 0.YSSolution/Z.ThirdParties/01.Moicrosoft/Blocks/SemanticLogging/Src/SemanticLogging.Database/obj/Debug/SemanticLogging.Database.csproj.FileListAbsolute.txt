@@ -1,0 +1,9 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Scripts\CreateSemanticLoggingDb.cmd
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Scripts\CreateSemanticLoggingDatabase.sql
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Scripts\CreateSemanticLoggingDatabaseObjects.sql
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Database.XML
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Database.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Database.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.Database\obj\Debug\SemanticLogging.Database.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.Database\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Database.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.Database\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Database.pdb

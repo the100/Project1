@@ -1,0 +1,13 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\EntLibConfig.exe.config
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\EntLibConfig.exe
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\EntLibConfig.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\Console\obj\Debug\Configuration.Console.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\Console\obj\Debug\Shell.baml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\Console\obj\Debug\Shell.g.cs
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\Console\obj\Debug\App.g.cs
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig_MarkupCompile.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig.g.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\Console\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Console.Properties.Resources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\Console\obj\Debug\Configuration.Console.csproj.GenerateResource.Cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig.exe
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig.pdb

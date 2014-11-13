@@ -1,0 +1,11 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Scripts\CreateSemanticLoggingDb.cmd
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Scripts\CreateSemanticLoggingDatabase.sql
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Scripts\CreateSemanticLoggingDatabaseObjects.sql
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\ILMergeExcludes.txt
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Etw.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Etw.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.Etw\obj\Debug\SemanticLogging.Etw.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.Etw\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Etw.Properties.Resources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.Etw\obj\Debug\SemanticLogging.Etw.csproj.GenerateResource.Cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.Etw\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Etw.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.Etw\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Etw.pdb

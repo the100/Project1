@@ -1,0 +1,16 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibray.TransientFaultHandling.Core.Tests.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibray.TransientFaultHandling.Core.Tests.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.TestSupport.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Moq.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.TestSupport.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Moq.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Moq.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\obj\Debug\TransientFaultHandling.Core.Tests.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\obj\Debug\Microsoft.Practices.EnterpriseLibray.TransientFaultHandling.Core.Tests.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Tests\TransientFaultHandling.Core.Tests\obj\Debug\Microsoft.Practices.EnterpriseLibray.TransientFaultHandling.Core.Tests.pdb

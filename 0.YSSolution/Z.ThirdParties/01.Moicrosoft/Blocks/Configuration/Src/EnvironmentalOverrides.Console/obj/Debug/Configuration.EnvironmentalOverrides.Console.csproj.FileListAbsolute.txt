@@ -1,0 +1,8 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\MergeConfiguration.exe.config
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\MergeConfiguration.exe
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\MergeConfiguration.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\Configuration.EnvironmentalOverrides.Console.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Console.Properties.Resources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\Configuration.EnvironmentalOverrides.Console.csproj.GenerateResource.Cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\MergeConfiguration.exe
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\MergeConfiguration.pdb

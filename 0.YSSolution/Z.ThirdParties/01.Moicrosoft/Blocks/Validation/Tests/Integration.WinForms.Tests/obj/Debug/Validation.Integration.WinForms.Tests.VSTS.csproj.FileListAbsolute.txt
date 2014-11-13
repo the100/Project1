@@ -1,0 +1,16 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.Tests.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.Tests.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.TestSupport.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.TestSupport.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\obj\Debug\Validation.Integration.WinForms.Tests.VSTS.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.Tests.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\Validation\Tests\Integration.WinForms.Tests\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.Tests.pdb

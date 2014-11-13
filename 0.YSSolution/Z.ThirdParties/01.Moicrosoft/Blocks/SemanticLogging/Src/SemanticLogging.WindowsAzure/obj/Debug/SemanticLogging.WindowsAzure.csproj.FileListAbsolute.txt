@@ -1,0 +1,8 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.WindowsAzure.XML
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.WindowsAzure.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.WindowsAzure.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.WindowsAzure\obj\Debug\SemanticLogging.WindowsAzure.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.WindowsAzure\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Properties.Resources.resources
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.WindowsAzure\obj\Debug\SemanticLogging.WindowsAzure.csproj.GenerateResource.Cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.WindowsAzure\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.WindowsAzure.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\SemanticLogging\Src\SemanticLogging.WindowsAzure\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.WindowsAzure.pdb

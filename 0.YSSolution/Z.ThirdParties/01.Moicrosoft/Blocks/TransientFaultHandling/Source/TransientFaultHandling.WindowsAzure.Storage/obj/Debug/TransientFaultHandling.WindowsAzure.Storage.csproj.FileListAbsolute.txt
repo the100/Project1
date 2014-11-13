@@ -1,0 +1,6 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling.WindowsAzure.Storage\obj\Debug\TransientFaultHandling.WindowsAzure.Storage.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling.WindowsAzure.Storage\obj\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling.WindowsAzure.Storage\obj\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.pdb

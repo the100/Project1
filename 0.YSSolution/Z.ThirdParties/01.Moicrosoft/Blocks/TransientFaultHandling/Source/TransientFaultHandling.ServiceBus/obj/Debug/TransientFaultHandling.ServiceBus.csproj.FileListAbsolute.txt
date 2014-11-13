@@ -1,0 +1,6 @@
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.xml
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.pdb
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling.ServiceBus\obj\Debug\TransientFaultHandling.ServiceBus.csprojResolveAssemblyReference.cache
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling.ServiceBus\obj\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+D:\Source\YSSolution\Z.ThirdParties\01.Moicrosoft\Blocks\TransientFaultHandling\Source\TransientFaultHandling.ServiceBus\obj\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.pdb
